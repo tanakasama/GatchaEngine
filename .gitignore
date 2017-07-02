@@ -1,3 +1,5 @@
+/[Bb]earded[Mm]an[Ss]tudios/[Cc]ore/bin/
+/[Bb]earded[Mm]an[Ss]tudios/[Cc]ore/obj/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -21,7 +23,8 @@ ExportedObj/
 *.pidb
 *.booproj
 *.svd
-*.pdb
+*.bin
+*.bin.meta
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -32,3 +35,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.dll
+*.pdb
+*.exe
+*.cache
