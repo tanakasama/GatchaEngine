@@ -22,4 +22,4 @@ This is a public open source Gatcha Engine that is designed by Brett Faulds from
 3) [Patreon Support with Rewards](https://www.patreon.com/BeardedManStudios)
 
 ## License
-GatchaEngine is developed by Brett Faulds from Bearded Man Studios, and has the zlib license. While the zlib license does not require acknowledgement, we encourage you to give credit to Brett Faulds or Bearded Man Studios in your product.
+GatchaEngine is developed by Brett Faulds from Bearded Man Studios, and has the [zlib license](https://github.com/BeardedManStudios/GatchaEngine/blob/master/LICENSE). While the zlib license does not require acknowledgement, we encourage you to give credit to Brett Faulds or Bearded Man Studios in your product.
