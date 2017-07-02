@@ -13,9 +13,10 @@ This is a public open source Gatcha Engine that is designed by Brett Faulds from
 ## Unity Package Download
 - TODO
 
-## Ways to support the project
+## Ways to support us
 1) Make pull requests :D
 2) Any donations are much appreciated <3
+3) [Patreon Support with Rewards](https://www.patreon.com/BeardedManStudios)
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4CXPTUZR3KBLU)
 
