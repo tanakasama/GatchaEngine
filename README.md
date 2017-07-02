@@ -8,7 +8,7 @@ This is a public open source Gatcha Engine that is designed by Brett Faulds from
 - TODO
 
 ## Community
-- TODO
+[Join our Discord!](https://discord.gg/y2fPyzB)
 
 ## Unity Package Download
 - TODO
