@@ -2,29 +2,32 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TweenRotator : MonoBehaviour
+namespace BMSGatchaEngine.Runtime.UI.Tweens
 {
-    /// <summary>
-    /// The rotation we are going to be using
-    /// </summary>
-    public Vector3 Rotation;
-    /// <summary>
-    /// The speed at which we rotate
-    /// </summary>
-    public float Speed;
-
-    /// <summary>
-    /// Self Transform
-    /// </summary>
-    private RectTransform _selfTransform;
-
-    private void Start()
+    public class TweenRotator : MonoBehaviour
     {
-        _selfTransform = GetComponent<RectTransform>();
-    }
+        /// <summary>
+        /// The rotation we are going to be using
+        /// </summary>
+        public Vector3 Rotation;
+        /// <summary>
+        /// The speed at which we rotate
+        /// </summary>
+        public float Speed;
 
-    private void Update ()
-    {
-        _selfTransform.Rotate(Rotation * Speed * Time.deltaTime);
+        /// <summary>
+        /// Self Transform
+        /// </summary>
+        private RectTransform _selfTransform;
+
+        private void Start()
+        {
+            _selfTransform = GetComponent<RectTransform>();
+        }
+
+        private void Update()
+        {
+            _selfTransform.Rotate(Rotation * Speed * Time.deltaTime);
+        }
     }
 }
