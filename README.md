@@ -1,5 +1,5 @@
 # Gatcha Engine
-This is a public open source Gatcha Engine that is designed by Brett Faulds from Beared Man Studios
+This is a open source Gatcha Engine that is designed by Brett Faulds from Beared Man Studios
 
 ## Possibilities
 - TODO
